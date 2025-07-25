@@ -1,4 +1,4 @@
-# C++ Experiment 2: Bitwise Operations & Bit Manipulation
+# C++ Experiment 4: Bitwise Operations & Bit Manipulation
 
 ---
 
